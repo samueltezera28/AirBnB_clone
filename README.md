@@ -79,4 +79,4 @@ Command | Description
 ## Authors
 
 * **Yohannis Aweke** - Github: [jooon2994](https://github.com/jooon2994)
-* **Samuel tezera** - Github: [samueltezera28](https://github.com/samueltezera28)
+* **Samuel Tezera** - Github: [samueltezera28](https://github.com/samueltezera28)
