@@ -1,1 +1,1 @@
-I am excited to start front end development. YEAH!!!
+This is **0x01. AirBnB clone - Web static** project
